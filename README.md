@@ -28,13 +28,19 @@ Logos de Turismoi disponibles en /sources
 
 # A evaluar
 * Herramientas utilizadas en el desarrollo de la solución.
-* Correcto manejo de Git, recomendado microcommits.
+* Correcto manejo de Git, recomendado uso de issues y microcommits.
 * Manejo de frameworks de desarrollo. Punto extra si se usa React o Vue
 * Se tomará en cuenta el uso de preprocesadores.
 * Diseño responsive.
+* Deseable buen manejo de Diseño Web. Buscamos un perfil creativo
+* Puntos extra por uso de herramientas de Testing: Deseable Tests Unitarios.
 * Plus si tienen tiempo de mostrar el detalle de un tour: http://turismoi.pe/api/documentation#tour
+* **Nota:** No tomares en cuenta la cantidad de features realizados, sino más bien la calidad del código y metodologías de trabajo empleadas.
 
 # Importante
-* Hacer un fork en GitHub de este repositorio. No enviar commits directamente: Usar pull request desde el fork (ver: https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-* Consultas o dudas sobre el avance deben ser enviadas a *willy@turismoi.com* o agregarme al repositorio clonado como *willywg* y consultarme por un issue
+* Hacer un fork en GitHub de este repositorio. No enviar commits directamente.
+* Agregarme al repositorio clonado como *willywg*
+* Detalles relevantes de sus avances pueden notificármelo con un comentario de GitHub hacia *willywg* dentro del commit o línea de código.
+* Consultas o dudas sobre el avance deben ser enviadas a *willy@turismoi.com*. Para contacto directo usar Whatsapp: 959350453
+* Una vez terminado el avance notificarme por los medios anteriormente mencionados para proceder a evaluarlos.
 
